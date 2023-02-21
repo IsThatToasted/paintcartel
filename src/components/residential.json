@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "Name": "Kieth Meckley",
+      "Worker Type": "Residential",
+      "Specialty": "Residential",
+      "CostPerHour": 50,
+      "ChargePerHour": 100
+    },
+    {
+      "Name": "Dude Dudley",
+      "Worker Type": "Residential",
+      "Specialty": "Residential",
+      "CostPerHour": 50,
+      "ChargePerHour": 100
+    },
+    {
+      "Name": "Dude Dudley",
+      "Worker Type": "Residential",
+      "Specialty": "Residential",
+      "CostPerHour": 50,
+      "ChargePerHour": 100
+    },
+    {
+      "Name": "Dude Dudley",
+      "Worker Type": "Residential",
+      "Specialty": "Residential",
+      "CostPerHour": 50,
+      "ChargePerHour": 100
+    }
+  ]
+}

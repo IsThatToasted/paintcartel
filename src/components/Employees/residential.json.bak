@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "Name": "Kieth Meckley",
+      "Worker Type": "Residential",
+      "Specialty": "Residential",
+      "CostPerHour": 50,
+      "ChargePerHour": 100
+    },
+    {
+      "Name": "Mary Johnson",
+      "Worker Type": "Part-time",
+      "Specialty": "Graphic Designer",
+      "CostPerHour": 40,
+      "ChargePerHour": 80
+    },
+    {
+      "Name": "Robert Lee",
+      "Worker Type": "Contractor",
+      "Specialty": "Data Analyst",
+      "CostPerHour": 60,
+      "ChargePerHour": 120
+    },
+    {
+      "Name": "Amanda Garcia",
+      "Worker Type": "Full-time",
+      "Specialty": "Marketing Manager",
+      "CostPerHour": 70,
+      "ChargePerHour": 140
+    }
+  ]
+}
