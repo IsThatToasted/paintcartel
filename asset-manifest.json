@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/paintcartel/static/css/main.4cf15da4.css",
+    "main.js": "/paintcartel/static/js/main.262f9acc.js",
+    "static/js/787.a3de41b9.chunk.js": "/paintcartel/static/js/787.a3de41b9.chunk.js",
+    "static/media/logo.png": "/paintcartel/static/media/logo.ea9c9edba131e6dc44f8.png",
+    "index.html": "/paintcartel/index.html",
+    "static/media/plus.svg": "/paintcartel/static/media/plus.8f3ab9f72337618f2823670542a3a8e4.svg",
+    "main.4cf15da4.css.map": "/paintcartel/static/css/main.4cf15da4.css.map",
+    "main.262f9acc.js.map": "/paintcartel/static/js/main.262f9acc.js.map",
+    "787.a3de41b9.chunk.js.map": "/paintcartel/static/js/787.a3de41b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf15da4.css",
+    "static/js/main.262f9acc.js"
+  ]
+}
