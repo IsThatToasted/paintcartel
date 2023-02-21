@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, BrowserRouter as Router } from 'react-router-dom';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo2.png';
 import { FaHome, FaUser, FaCog, FaUserCircle } from 'react-icons/fa';
 import 'tailwindcss/tailwind.css';
 
