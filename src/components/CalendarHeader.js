@@ -1,6 +1,6 @@
 import dayjs from "dayjs";
 import React, { useContext } from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo2.png";
 import GlobalContext from "../context/GlobalContext";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
